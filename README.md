@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I’m a Frontend Engineer focused on crafting delightful and engaging user experiences leveraging ES6+ JavaScript and other modern tools of web development.
+
+I primarily work with React, Node and React Native and I have dabbled with GraphQL, TypeScript, Vue.js and Svelte on my personal projects.
 <!--
 **nikhilasrani/nikhilasrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
