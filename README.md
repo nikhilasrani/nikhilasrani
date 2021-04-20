@@ -1,19 +1,15 @@
-### Hi there 👋
+# Hi there!👋
 
-I’m a Frontend Engineer focused on crafting delightful and engaging user experiences leveraging ES6+ JavaScript and other modern tools of web development.
+I'm a Software Engineer at Remedico which is a startup that is focused on improving healthcare for young people in India. I work closely with React, React Native and JavaScript on a daily basis.
 
-I primarily work with React, Node and React Native and I have dabbled with GraphQL, TypeScript, Vue.js and Svelte on my personal projects.
-<!--
-**nikhilasrani/nikhilasrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I built Remedico's [Android](https://play.google.com/store/apps/details?id=com.remedicoapp) and [iOS](https://apps.apple.com/in/app/remedico/id1478936836) apps from scratch using React Native. I have also worked on a lot of core features for Remedico's customer facing [web application](https://remedicohealth.com) along with a lot of doctor facing improvements and applications.
 
-Here are some ideas to get you started:
+I have worked for Accenture's [myWizard](https://www.accenture.com/in-en/services/applied-intelligence/mywizard-intelligent-automation-platform) in the past which is an intelligence tools based automation platform.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I graduated from PES University (then called PESIT) in 2017 as an Electronics & Communications Engineer.
+
+Feel free to contact me on some of my social links below.
+
+[Twitter @NikhilBAsrani](https://twitter.com/NikhilBAsrani)
+
+[Instagram @nikhilasrani](https://instagram.com/nikhilasrani)]
