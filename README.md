@@ -12,4 +12,4 @@ Feel free to contact me on some of my social links below.
 
 [Twitter @NikhilBAsrani](https://twitter.com/NikhilBAsrani)
 
-[Instagram @nikhilasrani](https://instagram.com/nikhilasrani)]
+[Instagram @nikhilasrani](https://instagram.com/nikhilasrani)
